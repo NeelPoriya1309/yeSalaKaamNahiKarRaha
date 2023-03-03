@@ -1,20 +1,16 @@
 const handler = require('../../../utils/ncHandler');
-const dbConnect = require('../../../lib/mongoose');
+const authController = require('../../../controllers/authController');
 const catchAsync = require('../../../utils/catchAsync');
 const User = require('../../../models/userModel');
-const jwt = require('jsonwebtoken');
 
-handler.get(
+handler.delete(
+  authController.protect,
   catchAsync(async (req, res, next) => {
-    await dbConnect();
-    const users = await User.find({});
+    await User.findByIdAndUpdate(req.user.id, { active: false });
 
-    res.status(200).json({
+    res.status(204).json({
       status: 'success',
-      results: users.length,
-      data: {
-        users,
-      },
+      data: null,
     });
   })
 );

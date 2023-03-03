@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-fountain-345506",
+  "private_key_id": "90a3a6313e153ff82fccbe8189df523fe7af2fdc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPb5dO3OrMQwlT\nT+CANJlilbJeqEROc2Q2/lu5c9KmApOo4ZRKHJxFFC+ruhw2rtsNS5OS/MrtviAy\ndwsH3Szr3oBQGONDIleNopRIgip9LjVV0ISWrQ55F9iL6QAq1k0DKCDWdJKlpUJa\nYl+7/dYd0LAxFOlQpxCAq3SwE1q/1lCoFJW3+nkwjpD+vRhjz9/kk7/OJTALkbG8\nSKwfeeci5DaOMgVOX7OFH/mJ/prd/GzDP7kwGNgE6bhzITig45tmKe4WUOaiPzWC\nZXtlMNTURKt2zwSfQGJBboiC+gCpDxd5lGnDzfDY5Z/vBOcDRR+OuUyr8DDk1Twj\n6Obes0KpAgMBAAECggEABv4MyWWL5ToJ4ve4hSt7RELxs3tevBfUPXmUKWPn85uZ\nzPB1SREgvZ3crpGXtUM8Lsddyfs8nc8oVOl4flFGErgRt4XlE1Vh4QfZVHkS/vAB\nHd44znsggt76maR503zHu5UJ18aOTRiztcIIsnqPBPxS0Iu5TYsdavZgzYIeCQ7E\nCAft+2fGjgZH8pfB4rWbTpdkB1gFYwX2KBo7G03Gz15pXewG9uv/mGArwe4oc7Bq\nWk61gEgq0fsb0pH2feJ0CnndiIhcilDLwnjkKLJBvURJvCGDnWHQhj39gt84YMAj\n0epyMx0ofYHttEpanry7ifoOPynXfxFhb9byscFN0QKBgQDBCRuSUAyvQ9Owu517\njfucHnwwV7SFFGc5gmG6YU03n+d32ZaSzcyACzS2jXFGyZel/qDSe3BAP2bJCFnc\ncor/G0Ey6xj+9SA1Vx7fDVyzttjrBH2sArlKs5sWBxEKvvippzizg6NZRuZno4+J\nzBnQhx/vDy+77lzSuzoIWvqImQKBgQC+OM1cwyTzRuXEVmsBTxBepBd9nYTKpxb7\n6XZY5TJGgwolxh0dMI9QQJ2tP6VyTN/uKc7NoFKRIQiilGmgAHohUkIkwY68+9SL\nnvWCpRlgGpqtQJaTzfZoY5EuSSuTyiKQEnWqC9qdm1GBNspq4U2ugX8qc+3oKhzn\noioS5GWEkQKBgQCmRrYdPh7vCbnbToDE4PSO8iN/cMzqpTyVaR3NcesVswOrVR5C\nrkstMHnjlcqxcwzRy5e0NufmL7bWC/97yJ66SDvNJH2PgI6R482PzO7BTwtixaeK\n932sPzGjs8qWOxHu8UACQa3/RPdK5rTJuamy2fJD9gzkENqcGvJOKDAOYQKBgBhF\nUx6k35AS2bpFdH3EQshwk3a5pHne+/XEgg8xn0qT6bWMI6bXzVFmDThPyKJe4KuY\ntgRSknZmCp4D5b4+kVazEjFyaO4AC8yMybKTsjsq6dV1SkEtpGUJXzrSpzbCMcrE\nMDM0M/6sFKgx/33HpYvAhiM6i3518R40+L1UWwehAoGBAI9k5DDo6WfEIuHH+oEr\n0mmFgrRydqti55eSrQkzUWtn2Xc5GxbykqETeEOM2W86i3IRF6/vWZxPu7OL+Ulj\nPBDaiM1T4zbzZV6fIddkfYZWGw8IJ3TXsxV1j6V2G5O0S17v0Wm8PMNiPU5GCaxT\n5tVLXzhwkqzTgyiWYHu2XlTW\n-----END PRIVATE KEY-----\n",
+  "client_email": "athletetalkadmin@savvy-fountain-345506.iam.gserviceaccount.com",
+  "client_id": "117895154574947618672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/athletetalkadmin%40savvy-fountain-345506.iam.gserviceaccount.com"
+}
