@@ -1,6 +1,7 @@
-const dbConnect = require("../../../lib/mongoose");
+const dbConnect = require("./mongoose");
+const User = require("./../../../models/userModel");
 
-export default handler = async (req, res) => {
+const handler = async (req, res) => {
   await dbConnect();
   const users = await User.find({});
 
@@ -12,3 +13,5 @@ export default handler = async (req, res) => {
     },
   });
 };
+
+export default handler;
