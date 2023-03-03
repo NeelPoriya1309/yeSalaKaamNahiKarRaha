@@ -1,5 +1,8 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+import clientPromies from '../../lib/mongodb';
+import handler from './../../utils/ncHandler';
 
-export default function handler(req, res) {
-  res.status(200).json({ name: "Jane Doe" });
-}
+handler.get(async (req, res) => {
+  res.status(200).json({ name: 'John Doe' });
+});
+
+export default handler;
